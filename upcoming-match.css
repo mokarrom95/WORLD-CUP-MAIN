@@ -80,7 +80,7 @@
 
 }
 
-.button-sec {}
+
 
 .body-button {
     width: 252px;
@@ -119,14 +119,25 @@
     border-radius: 10px;
 }
 
-.card img {
-    width: 312px;
-    height: 175px;
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
-    Font-style: SemiBold;
-    Line-height: 100%;
+.card-content {
+    margin: 53px 30px;
+    text-align: center;
 }
+
+.two-flag {
+    display: flex;
+}
+
+.vs {
+    margin: 18px 23px;
+}
+
+.f-img img {
+    width: 93px;
+    height: 56px;
+}
+
+
 
 
 .card-element {
