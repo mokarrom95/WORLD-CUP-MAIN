@@ -428,7 +428,11 @@ li a {
     }
 
 
-
+    .view-all {
+        display: inline;
+        background-color: tomato;
+        margin-left: 70%;
+    }
 
 
     .footer {
